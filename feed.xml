@@ -9,7 +9,26 @@
     <itunes:summary>気になったテーマを徹底リサーチして2人対談でお届けする、個人用リサーチPodcastです。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
-    <lastBuildDate>Wed, 22 Jul 2026 17:40:01 +0000</lastBuildDate>
-
+    <lastBuildDate>Wed, 22 Jul 2026 17:41:44 +0000</lastBuildDate>
+    <item>
+      <title>エピソード0：この番組について</title>
+      <description>リサーチキャストの紹介回。気になるテーマを徹底リサーチして2人対談でお届けします。</description>
+      <itunes:summary>リサーチキャストの紹介回。気になるテーマを徹底リサーチして2人対談でお届けします。</itunes:summary>
+      <enclosure url="https://igadai121.github.io/research-cast-feed-6a9bae23/audio/2026-07-23_0-93d7fc13.mp3" length="357085" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-23_0-93d7fc13</guid>
+      <pubDate>Wed, 22 Jul 2026 17:41:44 +0000</pubDate>
+      <itunes:duration>0:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>エピソード0：この番組について</title>
+      <description>リサーチキャストの紹介回。気になるテーマを徹底リサーチして2人対談でお届けします。</description>
+      <itunes:summary>リサーチキャストの紹介回。気になるテーマを徹底リサーチして2人対談でお届けします。</itunes:summary>
+      <enclosure url="https://igadai121.github.io/research-cast-feed-6a9bae23/audio/2026-07-23_0.mp3" length="357085" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-23_0</guid>
+      <pubDate>Wed, 22 Jul 2026 17:41:09 +0000</pubDate>
+      <itunes:duration>0:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
