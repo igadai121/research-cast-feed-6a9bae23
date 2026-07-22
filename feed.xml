@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research Cast</title>
+    <link>https://igadai121.github.io/research-cast-feed-6a9bae23</link>
+    <language>ja</language>
+    <description>気になったテーマを徹底リサーチして2人対談でお届けする、個人用リサーチPodcastです。</description>
+    <itunes:author>Daichi</itunes:author>
+    <itunes:summary>気になったテーマを徹底リサーチして2人対談でお届けする、個人用リサーチPodcastです。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"/>
+    <lastBuildDate>Wed, 22 Jul 2026 17:40:01 +0000</lastBuildDate>
+
+  </channel>
+</rss>
