@@ -14,7 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
-    <lastBuildDate>Wed, 22 Jul 2026 17:51:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:10:21 +0000</lastBuildDate>
+    <item>
+      <title>会議は「仕込み」で8割決まる ― ファシリテーションの教科書</title>
+      <description>グロービス・吉田素文『ファシリテーションの教科書』(東洋経済新報社,2014)を読み解く回。仕込みと捌き、発散と収束、傾聴で納得を作り、対立は論点として扱う。出典: str.toyokeizai.net/books/9784492533482/</description>
+      <itunes:summary>グロービス・吉田素文『ファシリテーションの教科書』(東洋経済新報社,2014)を読み解く回。仕込みと捌き、発散と収束、傾聴で納得を作り、対立は論点として扱う。出典: str.toyokeizai.net/books/9784492533482/</itunes:summary>
+      <enclosure url="https://igadai121.github.io/research-cast-feed-6a9bae23/audio/2026-07-23_8-60cc2e08.mp3" length="4498329" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-23_8-60cc2e08</guid>
+      <pubDate>Wed, 22 Jul 2026 18:10:21 +0000</pubDate>
+      <itunes:duration>6:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>エピソード0：この番組について</title>
       <description>リサーチキャストの紹介回。気になるテーマを徹底リサーチして2人対談でお届けします。</description>
