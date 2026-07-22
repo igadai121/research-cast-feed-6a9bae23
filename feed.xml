@@ -14,7 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
-    <lastBuildDate>Wed, 22 Jul 2026 18:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:11:33 +0000</lastBuildDate>
+    <item>
+      <title>知的生産性を上げる「DIPS」 ― 受け方・分解・2時間集中</title>
+      <description>小林忠嗣『知的生産性向上システムDIPS』(ダイヤモンド社,1991〜92)を読み解く回。受け方TEAR、タスク分解HIROEN(披露宴)、集中2時間のマックスⅡ、割り込み防衛BBC/NHK/SPA。現代のディープワーク/GTDとの対比も。</description>
+      <itunes:summary>小林忠嗣『知的生産性向上システムDIPS』(ダイヤモンド社,1991〜92)を読み解く回。受け方TEAR、タスク分解HIROEN(披露宴)、集中2時間のマックスⅡ、割り込み防衛BBC/NHK/SPA。現代のディープワーク/GTDとの対比も。</itunes:summary>
+      <enclosure url="https://igadai121.github.io/research-cast-feed-6a9bae23/audio/2026-07-23_dips-2.mp3" length="4805843" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-23_dips-2</guid>
+      <pubDate>Wed, 22 Jul 2026 18:11:33 +0000</pubDate>
+      <itunes:duration>6:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>会議は「仕込み」で8割決まる ― ファシリテーションの教科書</title>
       <description>グロービス・吉田素文『ファシリテーションの教科書』(東洋経済新報社,2014)を読み解く回。仕込みと捌き、発散と収束、傾聴で納得を作り、対立は論点として扱う。出典: str.toyokeizai.net/books/9784492533482/</description>
