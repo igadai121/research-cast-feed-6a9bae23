@@ -14,7 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
-    <lastBuildDate>Thu, 30 Jul 2026 02:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:20:29 +0000</lastBuildDate>
+    <item>
+      <title>未来の経営者の必読書⑥『会計の世界史』田中靖浩</title>
+      <description>数式ゼロで会計500年の歴史を物語化。複式簿記、株式会社、減価償却、管理会計とファイナンスが生まれた必然を解説。</description>
+      <itunes:summary>数式ゼロで会計500年の歴史を物語化。複式簿記、株式会社、減価償却、管理会計とファイナンスが生まれた必然を解説。</itunes:summary>
+      <enclosure url="https://igadai121.github.io/research-cast-feed-6a9bae23/audio/2026-07-30_ep-e13af106.mp3" length="9590326" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-30_ep-e13af106</guid>
+      <pubDate>Thu, 30 Jul 2026 02:20:29 +0000</pubDate>
+      <itunes:duration>13:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>未来の経営者の必読書⑤『不格好経営』南場智子</title>
       <description>マッキンゼー出身の南場智子がDeNA創業で重ねた失敗の記録。実行力、『ことに向かう』、質に妥協しない採用哲学。</description>
