@@ -14,7 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
-    <lastBuildDate>Wed, 22 Jul 2026 18:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:12:30 +0000</lastBuildDate>
+    <item>
+      <title>未来の経営者の必読書①『生き方』稲盛和夫</title>
+      <description>京セラ・KDDI創業、JAL再建を成し遂げた稲盛和夫の人生哲学。『考え方×熱意×能力』の方程式と『動機善なりや、私心なかりしか』を徹底解説。</description>
+      <itunes:summary>京セラ・KDDI創業、JAL再建を成し遂げた稲盛和夫の人生哲学。『考え方×熱意×能力』の方程式と『動機善なりや、私心なかりしか』を徹底解説。</itunes:summary>
+      <enclosure url="https://igadai121.github.io/research-cast-feed-6a9bae23/audio/2026-07-30_ep-dc346432.mp3" length="9103822" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-30_ep-dc346432</guid>
+      <pubDate>Thu, 30 Jul 2026 02:12:30 +0000</pubDate>
+      <itunes:duration>12:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>知的生産性を上げる「DIPS」 ― 受け方・分解・2時間集中</title>
       <description>小林忠嗣『知的生産性向上システムDIPS』(ダイヤモンド社,1991〜92)を読み解く回。受け方TEAR、タスク分解HIROEN(披露宴)、集中2時間のマックスⅡ、割り込み防衛BBC/NHK/SPA。現代のディープワーク/GTDとの対比も。</description>
