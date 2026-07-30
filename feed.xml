@@ -14,7 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
-    <lastBuildDate>Thu, 30 Jul 2026 02:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:17:11 +0000</lastBuildDate>
+    <item>
+      <title>未来の経営者の必読書④『HIGH OUTPUT MANAGEMENT』アンドリュー・グローブ</title>
+      <description>元インテルCEOによるマネジメントの古典。マネジャーのアウトプットの定義、朝食工場、1on1、OKRの源流までを解説。</description>
+      <itunes:summary>元インテルCEOによるマネジメントの古典。マネジャーのアウトプットの定義、朝食工場、1on1、OKRの源流までを解説。</itunes:summary>
+      <enclosure url="https://igadai121.github.io/research-cast-feed-6a9bae23/audio/2026-07-30_high-output-management.mp3" length="8036772" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-30_high-output-management</guid>
+      <pubDate>Thu, 30 Jul 2026 02:17:11 +0000</pubDate>
+      <itunes:duration>11:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>未来の経営者の必読書③『HARD THINGS』ベン・ホロウィッツ</title>
       <description>倒産寸前を何度もくぐった起業家が語る、答えのない経営の修羅場。The Struggle、戦時と平時のCEO、鉛の弾丸。a16z共同創業者の実話。</description>
