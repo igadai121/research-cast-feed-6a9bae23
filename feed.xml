@@ -14,7 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Education"/>
-    <lastBuildDate>Thu, 30 Jul 2026 02:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 09:11:31 +0000</lastBuildDate>
+    <item>
+      <title>ギャルに習う最強ビジネススキルを体系化する — 心理的安全性の3レバー（場・役割・物差し）</title>
+      <description>元ゴールドマン・サックスの田中渓さんがギャルからワンオンワンを受ける話題記事を、心理的安全性・弱い紐帯・条件付き自己価値などの体系知識に接続して分解。エドモンドソン、コイルの弱さのループ、クルーガーらのメール実験(78%→56%)まで。出典: https://x.com/yuya_awesome/status/2084593251600736436 / https://cgo-gal.com/ / https://web-docs.stern.nyu.edu/pa/kruger_email_ego.pdf</description>
+      <itunes:summary>元ゴールドマン・サックスの田中渓さんがギャルからワンオンワンを受ける話題記事を、心理的安全性・弱い紐帯・条件付き自己価値などの体系知識に接続して分解。エドモンドソン、コイルの弱さのループ、クルーガーらのメール実験(78%→56%)まで。出典: https://x.com/yuya_awesome/status/2084593251600736436 / https://cgo-gal.com/ / https://web-docs.stern.nyu.edu/pa/kruger_email_ego.pdf</itunes:summary>
+      <enclosure url="https://igadai121.github.io/research-cast-feed-6a9bae23/audio/2026-08-05_3-beea33f8.mp3" length="7349647" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-05_3-beea33f8</guid>
+      <pubDate>Wed, 05 Aug 2026 09:11:31 +0000</pubDate>
+      <itunes:duration>10:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>未来の経営者の必読書⑥『会計の世界史』田中靖浩</title>
       <description>数式ゼロで会計500年の歴史を物語化。複式簿記、株式会社、減価償却、管理会計とファイナンスが生まれた必然を解説。</description>
